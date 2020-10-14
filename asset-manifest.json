@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.5311cca1.chunk.css",
-    "main.js": "./static/js/main.10ce212b.chunk.js",
-    "main.js.map": "./static/js/main.10ce212b.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.e1f50cee.js",
-    "runtime-main.js.map": "./static/js/runtime-main.e1f50cee.js.map",
-    "static/js/2.75343c50.chunk.js": "./static/js/2.75343c50.chunk.js",
-    "static/js/2.75343c50.chunk.js.map": "./static/js/2.75343c50.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.191b4c5ec914c506969e632cb596e1da.js": "./precache-manifest.191b4c5ec914c506969e632cb596e1da.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.5311cca1.chunk.css.map": "./static/css/main.5311cca1.chunk.css.map",
-    "static/js/2.75343c50.chunk.js.LICENSE.txt": "./static/js/2.75343c50.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "./static/media/logo1.49f66587.svg"
+    "main.css": "/react_phone-catalog/static/css/main.7b909cdd.chunk.css",
+    "main.js": "/react_phone-catalog/static/js/main.fb9e2acc.chunk.js",
+    "main.js.map": "/react_phone-catalog/static/js/main.fb9e2acc.chunk.js.map",
+    "runtime-main.js": "/react_phone-catalog/static/js/runtime-main.29eb49af.js",
+    "runtime-main.js.map": "/react_phone-catalog/static/js/runtime-main.29eb49af.js.map",
+    "static/js/2.7ec32773.chunk.js": "/react_phone-catalog/static/js/2.7ec32773.chunk.js",
+    "static/js/2.7ec32773.chunk.js.map": "/react_phone-catalog/static/js/2.7ec32773.chunk.js.map",
+    "index.html": "/react_phone-catalog/index.html",
+    "precache-manifest.9a4df1099faeb168c99a125c62a0559d.js": "/react_phone-catalog/precache-manifest.9a4df1099faeb168c99a125c62a0559d.js",
+    "service-worker.js": "/react_phone-catalog/service-worker.js",
+    "static/css/main.7b909cdd.chunk.css.map": "/react_phone-catalog/static/css/main.7b909cdd.chunk.css.map",
+    "static/js/2.7ec32773.chunk.js.LICENSE.txt": "/react_phone-catalog/static/js/2.7ec32773.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/react_phone-catalog/static/media/logo1.49f66587.svg",
+    "static/media/Pagination.scss": "/react_phone-catalog/static/media/arrow-disabled.36f3b941.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1f50cee.js",
-    "static/js/2.75343c50.chunk.js",
-    "static/css/main.5311cca1.chunk.css",
-    "static/js/main.10ce212b.chunk.js"
+    "static/js/runtime-main.29eb49af.js",
+    "static/js/2.7ec32773.chunk.js",
+    "static/css/main.7b909cdd.chunk.css",
+    "static/js/main.fb9e2acc.chunk.js"
   ]
 }
