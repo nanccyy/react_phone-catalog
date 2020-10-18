@@ -1,31 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b86fdd8b3f32f6cc43b8dd8848cadb75",
+    "revision": "565c6be98d0f4c77f055bb2e1ee6bf65",
     "url": "/react_phone-catalog/index.html"
   },
   {
-    "revision": "1b98050ee4f9c5f4064c",
-    "url": "/react_phone-catalog/static/css/main.f7f6f401.chunk.css"
+    "revision": "b7cf18f653cee2de711f",
+    "url": "/react_phone-catalog/static/css/main.426a995d.chunk.css"
   },
   {
-    "revision": "09193dd8f3fe654db96b",
-    "url": "/react_phone-catalog/static/js/2.4cfcd3ce.chunk.js"
+    "revision": "e31994a1bf13fb3eb174",
+    "url": "/react_phone-catalog/static/js/2.d56134d3.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/react_phone-catalog/static/js/2.4cfcd3ce.chunk.js.LICENSE.txt"
+    "url": "/react_phone-catalog/static/js/2.d56134d3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1b98050ee4f9c5f4064c",
-    "url": "/react_phone-catalog/static/js/main.433d6770.chunk.js"
+    "revision": "b7cf18f653cee2de711f",
+    "url": "/react_phone-catalog/static/js/main.463c1b8c.chunk.js"
   },
   {
     "revision": "6393a2edf6852cccb812",
     "url": "/react_phone-catalog/static/js/runtime-main.29eb49af.js"
-  },
-  {
-    "revision": "61c13133f084aa367912664bd59cb326",
-    "url": "/react_phone-catalog/static/media/Banner.61c13133.svg"
   },
   {
     "revision": "482e37260cd688576287f1976e958e0b",
@@ -130,6 +126,26 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2e1409a2dd142828d9a2af6b859a3ad5",
     "url": "/react_phone-catalog/static/media/glyphicons-halflings.2e1409a2.png"
+  },
+  {
+    "revision": "ee8e070cd9dfac4f6483b0109a294390",
+    "url": "/react_phone-catalog/static/media/image_1.ee8e070c.jpg"
+  },
+  {
+    "revision": "9a20ad2d33e6888a272bdcd0587cb5bd",
+    "url": "/react_phone-catalog/static/media/image_2.9a20ad2d.jpg"
+  },
+  {
+    "revision": "496ae286dfaa319cdb18a859849dd32f",
+    "url": "/react_phone-catalog/static/media/image_3.496ae286.jpg"
+  },
+  {
+    "revision": "925a071d2b5cd6f04acbba917b16e024",
+    "url": "/react_phone-catalog/static/media/image_4.925a071d.jpg"
+  },
+  {
+    "revision": "88d5e93461fee1e256f3f941bc52a2f0",
+    "url": "/react_phone-catalog/static/media/image_5.88d5e934.jpg"
   },
   {
     "revision": "de4e900889194c43056d5a4f6b9ce9d1",
