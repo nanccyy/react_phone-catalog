@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react_phone-catalog/static/css/main.b67117eb.chunk.css",
-    "main.js": "/react_phone-catalog/static/js/main.463c1b8c.chunk.js",
-    "main.js.map": "/react_phone-catalog/static/js/main.463c1b8c.chunk.js.map",
+    "main.css": "/react_phone-catalog/static/css/main.258427a9.chunk.css",
+    "main.js": "/react_phone-catalog/static/js/main.9e3ee3b5.chunk.js",
+    "main.js.map": "/react_phone-catalog/static/js/main.9e3ee3b5.chunk.js.map",
     "runtime-main.js": "/react_phone-catalog/static/js/runtime-main.29eb49af.js",
     "runtime-main.js.map": "/react_phone-catalog/static/js/runtime-main.29eb49af.js.map",
-    "static/js/2.d56134d3.chunk.js": "/react_phone-catalog/static/js/2.d56134d3.chunk.js",
-    "static/js/2.d56134d3.chunk.js.map": "/react_phone-catalog/static/js/2.d56134d3.chunk.js.map",
+    "static/js/2.e992d2b9.chunk.js": "/react_phone-catalog/static/js/2.e992d2b9.chunk.js",
+    "static/js/2.e992d2b9.chunk.js.map": "/react_phone-catalog/static/js/2.e992d2b9.chunk.js.map",
     "index.html": "/react_phone-catalog/index.html",
-    "precache-manifest.d12c649ae09ea7d6750f957a87f36d8b.js": "/react_phone-catalog/precache-manifest.d12c649ae09ea7d6750f957a87f36d8b.js",
+    "precache-manifest.086835a595e8c056689f63facad51783.js": "/react_phone-catalog/precache-manifest.086835a595e8c056689f63facad51783.js",
     "service-worker.js": "/react_phone-catalog/service-worker.js",
-    "static/css/main.b67117eb.chunk.css.map": "/react_phone-catalog/static/css/main.b67117eb.chunk.css.map",
-    "static/js/2.d56134d3.chunk.js.LICENSE.txt": "/react_phone-catalog/static/js/2.d56134d3.chunk.js.LICENSE.txt",
+    "static/css/main.258427a9.chunk.css.map": "/react_phone-catalog/static/css/main.258427a9.chunk.css.map",
+    "static/js/2.e992d2b9.chunk.js.LICENSE.txt": "/react_phone-catalog/static/js/2.e992d2b9.chunk.js.LICENSE.txt",
     "static/media/Mont-Bold.otf": "/react_phone-catalog/static/media/Mont-Bold.482e3726.otf",
     "static/media/Mont-Regular.otf": "/react_phone-catalog/static/media/Mont-Regular.f0f84558.otf",
     "static/media/Mont-SemiBold.otf": "/react_phone-catalog/static/media/Mont-SemiBold.d41a520b.otf",
@@ -106,8 +106,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.29eb49af.js",
-    "static/js/2.d56134d3.chunk.js",
-    "static/css/main.b67117eb.chunk.css",
-    "static/js/main.463c1b8c.chunk.js"
+    "static/js/2.e992d2b9.chunk.js",
+    "static/css/main.258427a9.chunk.css",
+    "static/js/main.9e3ee3b5.chunk.js"
   ]
 }
